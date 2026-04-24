@@ -7,4 +7,5 @@ BrushOrAlgorithm is a mobile application built with Flutter that classifies inpu
 Two models were trained for this task: one using a standard CNN algorithm and another using a GE-CNN algorithm. After evaluation, the GE-CNN model outperformed the CNN.
 
 Colab Notebook of Model training and testing: https://colab.research.google.com/drive/1Jn6SkeCBGpRbyOPp5gpnd6bK3zswyNSn?usp=sharing
+
 Project members: Adwaitha Raju, Aravind Biju, Sraya Sanjay, Sona S
